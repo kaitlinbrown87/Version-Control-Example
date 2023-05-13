@@ -70,7 +70,35 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 [Aa]ssets/[Ss]treamingAssets/aa.meta
 [Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< HEAD
 Version Control/Assets/dev branch.cs
 *.cs
 *.cs
 Version Control/Assets/Materials.meta
+=======
+Version Control/Library/ArtifactDB
+Version Control/Library/Artifacts/24/2413252867c9107eb0b7c459e6a4ec52
+Version Control/Library/Artifacts/30/30b1f63bc4d8d194514a14e8e13ff5e2
+Version Control/Library/Artifacts/a8/a80c290496478d4f9869d34378271550
+Version Control/Library/Artifacts/f8/f8134c09295d7e9d2089d983523822ac
+Version Control/Library/EditorInstance.json
+Version Control/Library/Search/transactions.db
+Version Control/Library/SourceAssetDB
+Version Control/Logs/AssetImportWorker0-prev.log
+Version Control/Logs/AssetImportWorker0.log
+Version Control/Logs/AssetImportWorker1-prev.log
+Version Control/Logs/AssetImportWorker1.log
+Version Control/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Version Control/Temp/FSTimeGet-3d8e35d60c9bc104fbfea128d48fa13e
+Version Control/Temp/FSTimeGet-a401ea2d55ce54f4f880924dbc51ca21
+Version Control/Temp/FSTimeGet-e5d9553beb85d334d9c5423d59b307bc
+Version Control/Temp/UnityLockfile
+Version Control/Temp/workerlic
+Version Control/UserSettings/Search.settings
+Version Control/Library/ArtifactDB
+Version Control/Library/Search/transactions.db
+Version Control/Library/SourceAssetDB
+Version Control/Logs/AssetImportWorker0.log
+Version Control/Logs/AssetImportWorker1.log
+Version Control/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+>>>>>>> main
